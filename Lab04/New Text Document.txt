@@ -1,0 +1,5 @@
+cau hinh tren firewall bang phan mem pfpensen
+cau 1 : dung so do ping thong
+1 wan 
+1 lan 
+1 dmz tap trung sv web pmz
